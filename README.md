@@ -63,4 +63,3 @@ https://www.ibm.com/docs/en/was-liberty/nd?topic=dmal-deploying-jms-applications
 https://developer.ibm.com/tutorials/mq-develop-mq-jms/
 https://aguibert.github.io/openliberty-cheat-sheet/
 ```
-
